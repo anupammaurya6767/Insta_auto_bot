@@ -6,6 +6,26 @@
   </a>
 </p>
 
+## After clonning the given repo...
 
-npm install --save dotenv puppeteer
-npm install instauto
+## Mark star to the repo..
+
+# To run , type the command in terminal in root folder.
+```
+   npm install --save dotenv puppeteer
+   
+   npm install instauto
+   
+```
+
+# Setup.
+In process.env enter you password and username.
+
+# To start the bot
+
+```
+  node index.js
+  
+```
+
+
